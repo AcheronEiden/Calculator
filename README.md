@@ -1,6 +1,6 @@
-Calculator
+# Calculator
 
-The calculator will be built uon the parsing technique called *recursive descent*. The calculator will use tokenization to operate, meaning that it will break up a sequence of strings into units (for example characters) called tokens that leads to sepcific functions/operations/methods. Errors will be handled using *exceptions*.
+The calculator will be built upon the parsing technique called *recursive descent*. The calculator will use tokenization to operate, meaning that it will break up a sequence of strings into units (for example characters) called tokens that leads to sepcific functions/operations/methods. Errors will be handled using *exceptions*.
 -----------------------------------------------------------------------------------------------------------
 The calculator will follow the following principle:
 * An *expression* is a sequence of one or more *terms* seperated by + or -
