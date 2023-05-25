@@ -1,10 +1,10 @@
 The Python calculator code follows this process:
 
 1. The user input is checked to determine if it is an assignment, a command, or empty.
-* If it is an assignment, the code handles it accordingly, checking for variable overwriting.
 * If it is a command, the corresponding action is performed.
 * If neither an assignment nor a command, the user is prompted for a new input.
 
+* If it is an assignment, the code handles it accordingly, checking for variable overwriting.
 * In the expression process, the code performs addition or subtraction based on the next token.
 * In the term process, the code performs multiplication or division based on the next token.
 * In the factor process, the code checks various conditions such as assignments within parentheses,
