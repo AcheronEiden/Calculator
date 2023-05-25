@@ -8,5 +8,5 @@ The Python calculator code follows this process:
 * In the expression process, the code performs addition or subtraction based on the next token.
 * In the term process, the code performs multiplication or division based on the next token.
 * In the factor process, the code checks various conditions such as assignments within parentheses,
-already defined single-argument assignments within parentheses or a name/number/negative symbol.
-Different code paths are taken depending on the condition.
+no argument variables withing parantheses, already defined single-argument assignments within parentheses
+or a name/number/negative sign.Different code paths are taken depending on the condition.
