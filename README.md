@@ -13,5 +13,3 @@ A general *tokenizer* specificies the rules for how the tokens work together, bu
 **TokenizeWrapper**
 ![image](https://github.com/AcheronEiden/Calculator/assets/76567363/8378e5fb-725f-483d-88ac-33f320733dce)
 -----------------------------------------------------------------------------------------------------------
-Progress:
-Day1:
